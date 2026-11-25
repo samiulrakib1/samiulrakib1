@@ -16,15 +16,14 @@
 
 ### 👋 About Me
 
-I am a final-year **Computer Science & Engineering** undergraduate at the **University of Asia Pacific (UAP)**, with a **CGPA of 3.82 / 4.00** (ongoing).
+I am a final-year **Computer Science & Engineering** student at the **University of Asia Pacific (UAP)**, driven by a simple principle: *think clearly, then build*.
 
-I approach every problem with **logic first**: understand the requirement, break it into clear steps, design the structure, then build. My foundation is in **algorithms, databases, computer networks and software engineering**, and I am now extending it into **operating systems, machine learning and robotics**.
+Before writing any code, I focus on understanding the problem, structuring the logic, and designing a solution that is simple and reliable. My academic foundation covers **algorithms, database systems, computer networks and software engineering**, and I am currently deepening my knowledge in **operating systems, machine learning and robotics**.
 
-- 🧠 Strong in logical reasoning, problem decomposition and system design
-- 🗄️ Design normalized databases from ER models to working systems
-- 🌐 Build complete web solutions, from planning to deployment
-- 🤖 Exploring how logic and data drive robots and intelligent systems
-
+- 🧠 Analytical thinker with a strong focus on problem-solving and system design
+- 🗄️ Experienced in designing structured, efficient databases
+- 🌐 Develop complete web applications from concept to deployment
+- 🤖 Interested in how intelligent systems and robots make decisions
 ---
 
 ### 🛠️ Tech Stack
@@ -40,8 +39,8 @@ I approach every problem with **logic first**: understand the requirement, break
 | Project | Description | Tech |
 |---|---|---|
 | [**SafarSathi – Web**](https://github.com/samiulrakib1/SafarSathi-django-project) | Travel planner web app to create and manage trip itineraries | Python, Django, SQLite |
-| **SafarSathi – App** | Mobile version of SafarSathi for planning trips on the go | ADD_TECH |
-| **Robotics Project** | ADD_ONE_LINE_ABOUT_THE_ROBOT | ADD_TECH |
+| **SafarSathi – App** | Mobile version of SafarSathi for planning and managing trips anywhere | Mobile App |
+| **Arduino Robotics Project** | Robot built on Arduino that uses sensors and control logic to respond to its surroundings | Arduino, C++ |
 | [**Volunteer Management System**](https://github.com/A-Fera/java-project) | Manages volunteer registration, event scheduling and activity tracking | Java |
 | [**Financial Management System**](https://github.com/A-Fera/Financial-Management-System-SQL) | Tracks income, expenses and budgets with financial reports, built on ER modelling and normalized tables | MySQL, ER Diagram |
 | [**Portfolio Website**](https://github.com/samiulrakib1/portfolio) | Personal portfolio website | HTML, CSS |
