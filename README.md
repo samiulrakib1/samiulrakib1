@@ -1,15 +1,15 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3B4D,100:2B7A78&height=180&section=header&text=Samiul%20Islam%20Rakib&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Computer%20Science%20%26%20Engineering%20%7C%20University%20of%20Asia%20Pacific&descSize=16&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3B4D,100:2B7A78&height=180&section=header&text=Samiul%20Islam%20Rakib&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=CSE%20Undergraduate%20%7C%20University%20of%20Asia%20Pacific&descSize=16&descAlignY=58" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2B7A78&center=true&vCenter=true&width=600&lines=Logic+first%2C+code+second;Algorithms+%E2%80%A2+Databases+%E2%80%A2+Networks;Web+%E2%80%A2+Robotics+%E2%80%A2+Machine+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2B7A78&center=true&vCenter=true&width=560&lines=Java+%E2%80%A2+SQL+%E2%80%A2+C%2FC%2B%2B;Building+web+apps+with+Django;Always+learning%2C+always+building" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samiul-islam-rakib-1a62692a3"><img src="https://img.shields.io/badge/LinkedIn-1F3B4D?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:samiulislamrakib38@gmail.com"><img src="https://img.shields.io/badge/Email-1F3B4D?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.facebook.com/share/1ELSn8ujHW/"><img src="https://img.shields.io/badge/Facebook-1F3B4D?style=flat-square&logo=facebook&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/CGPA-3.82%20%2F%204.00-2B7A78?style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=samiulrakib1&color=2B7A78&style=flat-square&label=Profile+Views"/>
 </p>
 
 ---
